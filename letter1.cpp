@@ -15,10 +15,11 @@ int main(){
     cout<<"Universidad Nacional de Rosario (UNR) en Argentina para una competencia de programación en";
     cout<<"la que estuve representando a la UNAL. Espero que sea de su agrado. No hay cosas materiales";
     cout<<"que representen la infinita gratitud y admiración que les he tenido desde que me formaron";
-    cout<<"cuando era niño en la programación. Espero que el destino  (Dios o lo que sea) me siga permitiendo";
-    cout<<"participar en más competencias de programación.Si es así, empeicen a acostumbrarse :),";
+    cout<<"cuando era niño en la programación. Espero que el destino (Dios o lo que sea) me siga permitiendo";
+    cout<<"participar en más competencias de programación. Si es así, empeicen a acostumbrarse :),";
     cout<<"porque les estaré mandando pequeños obsequios de los viajes a los certámenes de programación";
-    cout<<"que el destino me permita vivir fuera del país.Gracias totales. (Lease hasta el final)";
+    cout<<"que el destino me permita vivir fuera del país.";
+    cout<<"Gracias totales. (Lease hasta el final)";
     cout<<"                                                                   |>>>";
     cout<<"                           _                      _                |";
     cout<<"            ____________ .' '.    _____/----/-\ .' './========\   / \";
@@ -42,7 +43,7 @@ int main(){
     cout<<"           |       |  [ === =] /.::::::;;::::::::::::::;;;:::::::.\ [===  =]   |";
     cout<<"        ___|_______|__[ == ==]/.::::::;;;:::::::::::::::;;;:::::::.\[=  == ]___|_____";
 
-    cout<<"Postdata: Discúlpeme profesor Oscar por no haberme comunicado con usted con la continuación del proyecto.";
+    cout<<"Postdata: Discúlpeme profesor Oscar por no haberme comunicado con usted para la continuación del proyecto.";
     cout<<"Lastimosamente fue un fracaso, todos los niños solo copiaban código de chatGPT y era muy desgastante para mí";
     cout<<"preparar todo y ver que ellos no tenían el interés de aprender.";
     cout<<"Juan David...";
